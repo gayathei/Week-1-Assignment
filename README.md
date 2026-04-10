@@ -1,1 +1,2 @@
-# Week-1-Assignment
+Assignment - Week 1: Introduction to Data Science & Python Essentials
+Basic Data Analysis: Load a small dataset (e.g., student marks.csv) in Pandas. Calculate descriptive stats (mean, median, mode, std dev), visualize score distributions using Matplotlib, and write a short interpretation on insights (e.g., score spread, outliers). Submit Jupyter Notebook, visualizations, and summary.# Week-1-Assignment
